@@ -1,5 +1,5 @@
-today, we begun by looking into the classifications of networks; based on size and topology.
-then we proceeded to use terminal to access other devices (raspberry pis) that were on the same network as our own devices through the ip addresses.
-this took about 30-40 mins
-we also briefly discussed the topology of the network in ISAK
-then we proceeded to dsicuss our progress on our IAs
+In our next lesson, we looked at the OSI model, or the Open Systems Interconnection model, which serves as a basis of structure for computing or networking systems.
+The OSI model can be thought of as indicating the level of abstraction in a system.
+There are 7 levels in the OSI model; Physical, Data Link, Network, Transport, Session, Presentation and Application
+Each of these levels have their unique constituent parts of a system.
+After looking at this, we also created python programs by establishing a secure connection with raspberry pis through ssh, and creating and running python programs on the raspberry pis.
