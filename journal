@@ -1,5 +1,6 @@
-In our next lesson, we looked at the OSI model, or the Open Systems Interconnection model, which serves as a basis of structure for computing or networking systems.
-The OSI model can be thought of as indicating the level of abstraction in a system.
-There are 7 levels in the OSI model; Physical, Data Link, Network, Transport, Session, Presentation and Application
-Each of these levels have their unique constituent parts of a system.
-After looking at this, we also created python programs by establishing a secure connection with raspberry pis through ssh, and creating and running python programs on the raspberry pis.
+In our fourth lesson, my class was split into two sections based on prior knowledge of web design and programming, with each group having to work on a unique task.
+I had very little experience with HTML and CSS, and so, I was placed in the group whose task was focused around learning basic HTML.
+We started by installing an app called Webstorm, which is a powerful IDE for creating webpages.
+Then, we installed certain packages (Pug, Stylus, Coffee, i think i forgot the actual names) which allowed us to create webpages by using a simpler format.
+For example, we no longer had to use opening ang closing tags to code. These packages were basically simplified versions of HTML and CSS.
+With these packages, we created simple webpages and were able to view the effects of each of our changes in real-time.
