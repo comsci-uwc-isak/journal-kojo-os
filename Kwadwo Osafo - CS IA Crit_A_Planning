@@ -1,0 +1,15 @@
+Personal Code: 
+Criterion A 
+Defining the problem: From 2018 to 2019, there was no proper librarian in ISAK, which led to the library being in disarray, as they was no formal procedure on borrowing and returning books. Although an online system has now been set up to deal with the administration of the library in ISAK, I feel that it is not being used efficiently, since most people find it simpler to just walk into the library and take a book. This is most likely due to the lack of ease of access to the online library system, as each person has to log into an account from 
+I propose a solution to this problem, which will be to create an application that would serve as the librarian for the school’s library. The program will have a database of all books in the library and record all borrowing and returning of books, as well as to even give recommendations to the reader based on genre of book and reviews from other readers. I plan to have the program always running simultaneously on graphical interfaces permanently situated at the library where they can communicate with the master computer, each other and with the students effectively. This will enable students to borrow and return books with minimal effort.
+
+Rationale for Development: 
+
+Success Criteria:
+Students should be able to access the system with a simple identification (3-digit number)
+The system should be able to run from multiple devices (like an IoT system)
+Communication in the system should follow some sort of star topology.
+The main hub should be only accessible by the management (librarian or IT Centre)
+Automatic notification system to users (for overdue books, etc)
+
+Words: 
