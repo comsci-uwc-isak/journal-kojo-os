@@ -1,6 +1,3 @@
-In our fourth lesson, my class was split into two sections based on prior knowledge of web design and programming, with each group having to work on a unique task.
-I had very little experience with HTML and CSS, and so, I was placed in the group whose task was focused around learning basic HTML.
-We started by installing an app called Webstorm, which is a powerful IDE for creating webpages.
-Then, we installed certain packages (Pug, Stylus, Coffee, i think i forgot the actual names) which allowed us to create webpages by using a simpler format.
-For example, we no longer had to use opening ang closing tags to code. These packages were basically simplified versions of HTML and CSS.
-With these packages, we created simple webpages and were able to view the effects of each of our changes in real-time.
+In our fifth lesson, we again used Webstorm to create webpages.
+This time, we created a Login page.
+In this lesson there was a lot of focus on the CSS we used to make the webpage beautiful
