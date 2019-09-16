@@ -1,3 +1,6 @@
-In our fifth lesson, we again used Webstorm to create webpages.
-This time, we created a Login page.
-In this lesson there was a lot of focus on the CSS we used to make the webpage beautiful
+We begun our sixth lesson with a quick quiz, which was followed by a brief talk about what symmetrical encryption.
+Symmetrical encryption is a form of encrytion where the key used to encode and decode is the same.
+On the other hand, asymmetrical encryption makes use of a public key and a private key to encode and decode
+
+Next, we proceeded to create the backbone (basic HTML page setup and CSS) of a webpage that will enable a user to encrypt text with any given key.
+In this lesson, I saw some more aspects of HTML, such as the functions of classes and id's, which i found very interesting
