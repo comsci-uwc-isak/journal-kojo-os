@@ -1,6 +1,6 @@
-We begun our sixth lesson with a quick quiz, which was followed by a brief talk about what symmetrical encryption.
-Symmetrical encryption is a form of encrytion where the key used to encode and decode is the same.
-On the other hand, asymmetrical encryption makes use of a public key and a private key to encode and decode
+We begun our seventh lesson with a brief session where we lookd at certain key IB question words, and we practiced on how to answer these questions properly based on the words used.
+After that, we worked on our uncompleted encryption applications.
+This lesson was mainly focused on finishing the Javascript aspect of the application.
+It was quite simple, but quite interesting.
 
-Next, we proceeded to create the backbone (basic HTML page setup and CSS) of a webpage that will enable a user to encrypt text with any given key.
-In this lesson, I saw some more aspects of HTML, such as the functions of classes and id's, which i found very interesting
+Note to self: Improve CSS and HTML skills by learning more commands, etc.
